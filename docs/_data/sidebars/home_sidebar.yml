@@ -13,6 +13,6 @@ entries:
       title: Core
       url: core.html
     output: web
-    title: hello
+    title: hello_nbdev
   output: web
   title: Sidebar
